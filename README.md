@@ -7,6 +7,7 @@ NFTSearcher - user provides an NFT address and clicks a button, it should displa
 + [Git](https://git-scm.com/)
 + [Python](https://www.python.org/)
 + [Flask](https://palletsprojects.com/p/flask/)
++ [FlaskSQLAlchemy](https://flask-sqlalchemy.palletsprojects.com/en/3.0.x/)
 
 To install README "NFT", follow these steps:
 ```
@@ -35,22 +36,21 @@ Go to http://127.0.0.1:5000/ to see the app running.
 
 1.1 First, you need to register on our website https://solanart.io/
 
-![photo1665925266]()
+![photo1667128860](https://user-images.githubusercontent.com/91626983/198875948-02bcbe3a-b27a-4805-89db-8437d0d2e080.jpeg)
 
 1.2 Login to an existing account 
 
-![photo1665925217](https://user-images.githubusercontent.com/96559542/196038101-374be81e-a1e1-41ce-9c89-fcc58df76e9e.jpeg)
-
-![photo1665925351](https://user-images.githubusercontent.com/96559542/196038099-68580196-41b3-494b-850d-c4f6a908e126.jpeg)
+![photo1667128848](https://user-images.githubusercontent.com/91626983/198875951-9e679da6-036c-4f7a-be6f-206b33057b09.jpeg)
 
 1.3 If you can't log in, then you don't have an account or the password is wrong. 
 Try to register again
 
-
+![photo1667128874](https://user-images.githubusercontent.com/91626983/198875957-cdcc404f-0abb-4f84-abeb-24433de45b8b.jpeg)
 
 1.4 If logged in, then information about NFT addresses
 
-![photo1665925393](https://user-images.githubusercontent.com/96559542/196038096-9acddb62-b88a-489b-81c5-91340a0d1067.jpeg)
+![photo1667128903](https://user-images.githubusercontent.com/91626983/198875955-b57140e3-7754-4553-b7b4-d9e4a2327060.jpeg)
+![photo1667128925](https://user-images.githubusercontent.com/91626983/198875953-f0b3a57c-9290-4ac0-8ccc-cf5b99d940ed.jpeg)
 
 # LICENSE
 

@@ -30,11 +30,12 @@ $ cd src
 $ flask --app app.py run
 ```
 # Usage
-Go to http://127.0.0.1:5000/ to see the app running.
+Open your code editor with python and run our code.
+The second step is to open the link http://127.0.0.1:5000/  and register on our website.
 
 # Examples
 
-1.1 First, you need to register on our website https://solanart.io/
+1.1 First, you need to register on our website http://127.0.0.1:5000/
 
 ![photo1667128860](https://user-images.githubusercontent.com/91626983/198875948-02bcbe3a-b27a-4805-89db-8437d0d2e080.jpeg)
 

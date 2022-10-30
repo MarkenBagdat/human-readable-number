@@ -1,4 +1,4 @@
-#  Implement a Web Service for collecting information about NFTs in Solana with Authentication and Authorization features
+#  Implement a WebService for collecting information about NFTs with Authentication and Authorization features
 NFTSearcher - user provides an NFT address and clicks a button, it should display information about that NFT and store all data in a Postgres database.
 
 # Installation
